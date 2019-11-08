@@ -1,5 +1,5 @@
 # Python Lesson
 ## Author
-Tieu Hoang Tu-Rapp
+Hoang Tu-Rapp
 ## Date
 2019-11-08
